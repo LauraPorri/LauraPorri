@@ -1,20 +1,14 @@
-- 👋 Hi, I’m @LauraPorri
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 
 <h1 align="center">Hi 👋, I'm Laura Gallegos</h1>
 - 🌱 I’m currently learning **Data Science in TripleTen**
-
 - 👨‍💻 All of my projects are available at [https://github.com/LauraPorri/Bootcamp_Data_Science_TripleTen](https://github.com/LauraPorri/Bootcamp_Data_Science_TripleTen)
+- ⚡ Fun fact: I ❤️🐱s and Progressive Metal 🤘 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/laura celia gallegos ibarra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="laura celia gallegos ibarra" height="30" width="40" /></a>
-<a href="https://fb.com/laura gallegos ibarra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="laura gallegos ibarra" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/lauragallegosibarra/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="laura celia gallegos ibarra" height="30" width="40" /></a>
+<a href="https://www.facebook.com/laura.gallegosibarra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="laura gallegos ibarra" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
