@@ -2,7 +2,9 @@
 
 <h1 align="center">Hi 👋, I'm Laura Gallegos</h1>
 - 🌱 I’m currently learning **Data Science in TripleTen**
+
 - 👨‍💻 All of my projects are available at [https://github.com/LauraPorri/Bootcamp_Data_Science_TripleTen](https://github.com/LauraPorri/Bootcamp_Data_Science_TripleTen)
+- 
 - ⚡ Fun fact: I ❤️🐱s and Progressive Metal 🤘 
 
 <h3 align="left">Connect with me:</h3>
